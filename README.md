@@ -25,9 +25,7 @@ This repository serves as a showcase for various button styles implemented in Fl
 
 ## Preview
 
-Include screenshots or GIFs showcasing your Flutter project with different button styles. For example:
 
-![Button Styles Preview](screenshots/button_styles_preview.gif)
 
 ## Getting Started
 
