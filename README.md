@@ -28,34 +28,34 @@ This repository serves as a showcase for various button styles implemented in Fl
 <table>
   <tr style="border:0;">
     <td>
-      <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001048.jpg" alt="Feature Graphic - Dark Theme" height="300">
+      <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001048.jpg" alt="Feature Graphic - Dark Theme" height="250">
     </td>
     <td>
-   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001053.jpg" alt="Feature Graphic - Dark Theme" height="300">
+   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001053.jpg" alt="Feature Graphic - Dark Theme" height="250">
     </td>
        <td>
-   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001100.jpg" alt="Feature Graphic - Dark Theme" height="300">
+   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001100.jpg" alt="Feature Graphic - Dark Theme" height="250">
     </td>
   </tr>
    <tr>
        <td>
-   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001105.jpg" alt="Feature Graphic - Dark Theme" height="300">
+   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001105.jpg" alt="Feature Graphic - Dark Theme" height="250">
     </td>
        <td>
    
-   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001108.jpg" alt="Feature Graphic - Dark Theme" height="300">
+   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001108.jpg" alt="Feature Graphic - Dark Theme" height="250">
     </td>
      <td>
    
-   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001118.jpg" alt="Feature Graphic - Dark Theme" height="300">
+   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001118.jpg" alt="Feature Graphic - Dark Theme" height="250">
     </td>
     </tr>
     <tr >
      <td>
-   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001122.jpg" alt="Feature Graphic - Dark Theme" height="300">
+   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001122.jpg" alt="Feature Graphic - Dark Theme" height="250">
     </td>
      <td>
-   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001126 (1).jpg" alt="Feature Graphic - Dark Theme" height="300">
+   <img src="https://github.com/habbichelotfi/flutter-buttons-styles/blob/master/screenshots/Screenshot_20231110-001126 (1).jpg" alt="Feature Graphic - Dark Theme" height="250">
     </td>
       
     </tr>
