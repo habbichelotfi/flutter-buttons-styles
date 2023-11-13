@@ -41,13 +41,17 @@ Include screenshots or GIFs showcasing your Flutter project with different butto
 
 ```bash
 git clone https://github.com/habbichelotfi/flutter-buttons-styles.git
+```
 
 2. Navigate to the project directory:
+```bash
 cd flutter-buttons-styles
+```
 
 3.Get dependencies:
+```bash
 flutter pub get
-
+```
 ### Contributing
 Contributions are welcome! Whether it's adding new button styles, improving existing ones, or enhancing the documentation, feel free to contribute. Follow the contribution guidelines before submitting pull requests.
 
